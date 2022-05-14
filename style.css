@@ -17,7 +17,7 @@ body{
     font-family: 'Poppins', sans-serif;
     color:aliceblue;
 
-    background-image: url('/MainPage/Images/Background2.jpg');
+    background-image: url('Images/Background2.jpg');
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;
